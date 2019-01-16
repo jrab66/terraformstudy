@@ -1,8 +1,6 @@
-# terraform-course
+# terraform-exercises
 
-* These files are part of my Udemy course about Terraform
-* Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
-* practice development
+
 # Demo overview
 Demo Directory | Description | Status
 ------------ | ------------- | ------------- 
@@ -33,3 +31,10 @@ docker-demo-1 | Using ECR - The EC2 Container Registry
 docker-demo-2 | Using ECS - The EC2 Container Service
 docker-demo-3 | Using ECR/ECS with Jenkins in a complete workflow
 module-demo | Using ECS + ALB in 4 modules to show how developing terraform modules work
+
+
+this is my personal spinoff of that course.
+
+This are exercises are from : https://github.com/wardviaene/terraform-course
+* These files are part of my Udemy course about Terraform
+* Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
