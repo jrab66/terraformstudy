@@ -6,9 +6,9 @@ Demo Directory | Description | Status
 ------------ | ------------- | ------------- 
 first-steps | First steps | 
 demo-1 | First steps: Launching an EC2 instance | :metal:
-demo-2 | Using provisioner
-demo-2b | Using provisioner on a Windows instance
-demo-3 | Executing script locally
+demo-2 | Using provisioner | :metal:
+demo-2b | Using provisioner on a Windows instance | :metal:
+demo-3 | Executing script locally | :metal:
 demo-4 | Outputting
 demo-5 | Data Source
 demo-6 | Modules

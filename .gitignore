@@ -5,3 +5,5 @@
 */mykey*
 *.tfvars
 *.tfstate
+*.swp
+*.txt
